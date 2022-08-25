@@ -17,3 +17,5 @@ IDE (Integrated Development Environment)
 hello.html 또는 hello.md 파일의 내용을 변경하고 커밋 실행 * 2회 이상
 
 # 팀별 깃허브 생성
+ - 팀장이 개설
+ - 팀원 초대
